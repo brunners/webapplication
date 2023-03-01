@@ -1,0 +1,10 @@
+#representerContainer{
+    width: 95vw;
+    height: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background-color: #317773;
+}

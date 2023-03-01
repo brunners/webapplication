@@ -1,0 +1,12 @@
+
+#startpartContainer{
+    width: 95vw;
+    background-color: #317773;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    height: 50vh;
+    
+}
