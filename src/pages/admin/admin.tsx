@@ -78,6 +78,17 @@ const Admini = () => {
       imageUrl,
     };
     push(dbRef(FirebaseDatabase, "items"), newItem);
+    setFormData({
+      ID: "",
+      name: "",
+      beschreibung: "",
+      kurzbeschreibung: "",
+      preis1: "",
+      preis2: "",
+      preisw: "",
+      image: null,
+
+    })
   };
 
   if (status == "checking") {
@@ -121,9 +132,7 @@ const Admini = () => {
             id="kurzbeschreibung"
             name="kurzbeschreibung"
             value={formData.kurzbeschreibung}
-            onChange={(e: React.ChangeEvent<HTMLTextAreaElement>) =>
-              setFormData({ ...formData, kurzbeschreibung: e.target.value })
-            }
+            onChange={handleFormChange}
             className={css.textInputs}
           />
 
@@ -133,9 +142,7 @@ const Admini = () => {
             id="preis1"
             name="preis1"
             value={formData.preis1}
-            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-              setFormData({ ...formData, preis1: e.target.value })
-            }
+            onChange={handleFormChange}
             className={css.textInputs}
           />
 
@@ -145,9 +152,7 @@ const Admini = () => {
             id="preis2"
             name="preis2"
             value={formData.preis2}
-            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-              setFormData({ ...formData, preis2: e.target.value })
-            }
+            onChange={handleFormChange}
             className={css.textInputs}
           />
 
@@ -157,9 +162,7 @@ const Admini = () => {
             id="preisw"
             name="preisw"
             value={formData.preisw}
-            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-              setFormData({ ...formData, preisw: e.target.value })
-            }
+            onChange={handleFormChange}
             className={css.textInputs}
           />
 
@@ -168,9 +171,7 @@ const Admini = () => {
             type="file"
             id="image"
             name="image"
-            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-              setFormData({ ...formData, image: e.target.files?.[0] })
-            }
+            onChange={handleFormChange}
             className={css.textInputs}
           />
           <button type="submit">hallo</button>
