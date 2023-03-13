@@ -13,7 +13,6 @@ export default function Headbar()
     const[isAuth,setIsAuth] = useState(false)
     const[isVisible,setIsVisible] = useState(true)
     useEffect(()=>{
-        console.log(status)
         if (status === 'authenticated'){
             setIsAuth(true)
         }
@@ -39,7 +38,7 @@ export default function Headbar()
         }}>auth</div>
         </div>
     ) :
-    <div className={`${css.headbarContainer} ${isVisible ? css.visible : css.invisible}`}>    unauth
+    <div className={`${css.headbarContainer} ${isVisible ? css.visible : css.invisible}`}>    
     </div>)
     
 }
