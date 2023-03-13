@@ -10,7 +10,7 @@ const Login = () =>{
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         handleLoginWithCredentials(pass, email);
-        console.log(status)
+
     }
 
     if (status === 'authenticated'){
