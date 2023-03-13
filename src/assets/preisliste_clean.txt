@@ -1,0 +1,54 @@
+Square in the Air, 143 108 430 
+Bubble Soccer, 44 33 133 
+Bubble Soccer Tore, 41 31 122 
+Tor mit Lochwand, 153 115 460 
+Bungee‐Run, 339 254 1017 
+Sumo Wrestling, 198 148 593 
+Gladiatoren, 300 225 899 
+Human Kicker XXL, 402 302 1206 
+Hüpfburg  «Turtle», 233 175 698 
+Hüpfburg  «La Mucca», 337 253 1010 
+Hüpfburg  «Krokodil», 448 336 1343 
+Bullriding, 948 711 2844 
+Tennisballkanone, 360 270 1080 
+Professionelle  Basketballanlage, 126 94 378 
+Boxautomat, 308 231 925 
+Stand Up Paddle (SUP), 65 48 194 
+Fussballkasten  «Smart», 198 148 593 
+Fussballkasten  «Longo», 288 216 864 
+Schokokuss  Schleuder  "Einfach", 45 34 135 
+Schokokuss  Schleuder  "Obelix", 87 65 260 
+Schokokuss  Schleuder  "Micky", 87 65 260 
+Nagelspiel, 97 73 290 
+Büchsenwerfen, 82 62 247 
+Korkzapfenpumper, 116 87 347 
+Spikeball, 80 60 241 
+Vier gewinnt XXL, 100 75 299 
+Bogenschiessen  (2 Stck), 136 102 409 
+Armbrustschiessen  (2 Stck), 142 106 425 
+Luftgewehrschiessen  (2 Stck), 139 104 416 
+Luftpistolenschiessen  (2 Stck), 152 114 455 
+Schussfangvorhang, 121 90 362 
+Interaktives  Playsystem, 211 158 632 
+Playtable zu Interaktiv, 122 92 367 
+Pylonenset  zu Interaktiv, 114 85 341 
+Interactiv  Spielerwesten, 114 85 341 
+Speed Badminton  Set, 64 48 192 
+Indoor Golf Putting Bahn, 92 69 275 
+Torschussmessanlage , 57 43 172 
+Kanal Fernzündung, 64 48 191 
+Nachtsichtgerät, 63 47 188 
+Teleskop «Maede», 94 70 281 
+Outdoor GPS, 83 63 250 
+Ballonschleuder, 54 41 163 
+Fröbelturm, 43 32 129 
+Saftpresse  5l, 61 46 183 
+Papierschöpfen, 144 108 432 
+Schmiedeesse, 133 100 399 
+Schreibmaschinenschreiben, 74 56 222 
+Glücksrad, 85 63 254 
+Kleinbagger  Hutter U17, 295 221 884 
+Popcornmaschine  «Grande», 150 113 450 
+Popcornmaschine  «Smart», 74 56 222 
+Induktionskochfeld, 28 21 83 
+Hotdogmaschine, 36 27 107 

@@ -1,0 +1,44 @@
+{
+  "catchphrase": "Eine Party, die Sie nie vergessen werden - mit dem richtigen Zubehör von uns!",
+  "links": [
+    {
+      "id": 1,
+      "link": "/",
+      "name": "Home"
+    },
+    {
+      "id": 2,
+      "link": "/contact",
+      "name": "Kontakt"
+    },
+    {
+      "id": 3,
+      "link": "/products",
+      "name": "Produkte"
+    }
+  ],
+  "logo": "Epting Spiel und Spass",
+  "products": [
+    {
+      "beschreibung": "Bubble Football ist eine Variante des Fußballs, bei der die Spielerinnen und Spieler in aufblasbaren Bubbles stecken und gegeneinander antreten. Das Spiel ist sowohl für Teilnehmerinnen und Teilnehmer als auch für Zuschauerinnen und Zuschauer unterhaltsam und bietet eine Mischung aus Sport, Spaß und Action.",
+      "id": 1,
+      "kurzbeschrieb": "Bubble Football ist Fußball in aufblasbaren Bubbles. Spaßig und unterhaltsam für Spieler und Zuschauer. ",
+      "name": "Bubble Football",
+      "top": true
+    },
+    {
+      "beschreibung": "Bull Riding ist eine Sportart, bei der ein Teilnehmer auf einem wilden Bullen reitet und versucht, sich möglichst lange auf ihm zu halten. Es erfordert Geschicklichkeit, Kraft und Mut, um den Bullen zu beherrschen und die volle Punktzahl zu erreichen. Bull Riding ist ein aufregender Sport, der oft auf Rodeos und anderen Veranstaltungen zu sehen ist.",
+      "id": 2,
+      "kurzbeschrieb": "Bull Riding ist ein wilder Sport, bei dem Teilnehmer auf einem Bullen reiten und versuchen, sich möglichst lange auf ihm zu halten. Eine aufregende Sportart, die oft auf Rodeos zu sehen ist.",
+      "name": "Bull Riding",
+      "top": true
+    },
+    {
+      "beschreibung": "Die Hüpfburg in Form eines Krokodils ist ein aufblasbares Spielgerät, das Kindern eine Menge Spaß bietet. Die Hüpfburg hat eine riesige Sprungfläche, auf der Kinder springen, hüpfen und spielen können. Die Form des Krokodils verleiht der Hüpfburg ein ansprechendes Aussehen und sorgt für eine aufregende Atmosphäre. Die Hüpfburg ist sicher und robust und kann sowohl drinnen als auch draußen aufgestellt werden.",
+      "id": 3,
+      "kurzbeschrieb": "Die Hüpfburg in Krokodil-Form ist ein aufblasbares Spielgerät für Kinder. Mit einer großen Sprungfläche bietet sie viel Platz zum Springen und Spielen. Die auffällige Krokodil-Form sorgt für viel Spaß und Spannung",
+      "name": "Hüpfburg Krokodil",
+      "top": true
+    }
+  ]
+}
