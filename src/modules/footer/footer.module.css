@@ -1,8 +1,15 @@
 #footerContainer{
     background-color: #E2D1F9;
-    height: 100px;
+    height: 20vh;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row;
+}
+
+.linkContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
